@@ -12,8 +12,6 @@ This repository contains the HTML and CSS code for TuToRa's profile page, showca
 - [Contact](#contact)
 - [Technologies Used](#technologies-used)
 - [How to Contact TuToRa](#how-to-contact-tutora)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction <a name="introduction"></a>
 
